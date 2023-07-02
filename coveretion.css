@@ -1,0 +1,51 @@
+html, body{
+    height: 100%;
+    background-color: #9C9C9C !important;
+}
+.navbar .btn {
+    width: 42px;
+    height: 42px;
+    padding: 7px;
+}
+.text_judul {
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 39px;
+    color: #141414;
+}
+.text-tautan {
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 23px;
+    color: #206E3A;
+    text-decoration: none;
+}
+.text-harga {
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 53px;
+    text-align: center;
+    color: #000000;
+}
+.navbar{
+    background-color: #58AA96;
+}
+
+.card-title a {
+    text-decoration: none;
+    color: inherit;
+}
+.card-title a:hover {
+    color: #58AA96;
+}
+.btn a {
+    text-decoration: none;
+    color: inherit;
+}
+.text_judul{
+    height: 150%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: black;
+}
